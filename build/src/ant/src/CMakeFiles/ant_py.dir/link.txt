@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-8/root/usr/bin/ar qc _ant_py.a CMakeFiles/ant_py.dir/CMakeFiles/ant_py.dir/AntennaChecker-pyPYTHON_wrap.cxx.o CMakeFiles/ant_py.dir/ant_py-pythonInitVar.cc.o
+/opt/rh/devtoolset-8/root/usr/bin/ranlib _ant_py.a

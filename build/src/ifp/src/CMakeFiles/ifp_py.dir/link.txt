@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-8/root/usr/bin/ar qc _ifp_py.a CMakeFiles/ifp_py.dir/CMakeFiles/ifp_py.dir/InitFloorplan-pyPYTHON_wrap.cxx.o CMakeFiles/ifp_py.dir/ifp_py-pythonInitVar.cc.o
+/opt/rh/devtoolset-8/root/usr/bin/ranlib _ifp_py.a

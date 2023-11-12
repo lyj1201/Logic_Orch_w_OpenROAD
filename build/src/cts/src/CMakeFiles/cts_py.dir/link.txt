@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-8/root/usr/bin/ar qc _cts_py.a CMakeFiles/cts_py.dir/CMakeFiles/cts_py.dir/TritonCTS-pyPYTHON_wrap.cxx.o CMakeFiles/cts_py.dir/cts_py-pythonInitVar.cc.o
+/opt/rh/devtoolset-8/root/usr/bin/ranlib _cts_py.a

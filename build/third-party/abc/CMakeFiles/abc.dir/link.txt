@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-8/root/usr/bin/g++ -O3 -DNDEBUG -rdynamic CMakeFiles/abc.dir/src/base/main/main.c.o -o abc  libabc.a -lpthread -lm -ldl -lrt 

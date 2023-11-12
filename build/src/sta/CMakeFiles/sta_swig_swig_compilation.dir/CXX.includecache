@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/raid10/yingjie/OpenROAD/src/sta/app/StaApp.i
+Exception.i
+/mnt/raid10/yingjie/OpenROAD/src/sta/app/Exception.i
+StaTcl.i
+/mnt/raid10/yingjie/OpenROAD/src/sta/app/StaTcl.i
+Verilog.i
+/mnt/raid10/yingjie/OpenROAD/src/sta/app/Verilog.i
+NetworkEdit.i
+/mnt/raid10/yingjie/OpenROAD/src/sta/app/NetworkEdit.i
+Sdf.i
+/mnt/raid10/yingjie/OpenROAD/src/sta/app/Sdf.i
+DelayCalc.i
+/mnt/raid10/yingjie/OpenROAD/src/sta/app/DelayCalc.i
+Parasitics.i
+/mnt/raid10/yingjie/OpenROAD/src/sta/app/Parasitics.i
+Power.i
+/mnt/raid10/yingjie/OpenROAD/src/sta/app/Power.i
+

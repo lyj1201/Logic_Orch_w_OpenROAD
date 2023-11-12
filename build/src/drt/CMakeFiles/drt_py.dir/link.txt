@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-8/root/usr/bin/ar qc _drt_py.a CMakeFiles/drt_py.dir/CMakeFiles/drt_py.dir/TritonRoute-pyPYTHON_wrap.cxx.o CMakeFiles/drt_py.dir/drt_py-pythonInitVar.cc.o
+/opt/rh/devtoolset-8/root/usr/bin/ranlib _drt_py.a
